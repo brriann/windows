@@ -1,0 +1,6 @@
+https://docs.microsoft.com/en-us/windows/wsl/wsl-config
+https://docs.microsoft.com/en-us/windows/wsl/about
+https://docs.microsoft.com/en-us/virtualization/api/#:~:text=The%20Windows%20Hypervisor%20Platform%20adds,control%20execution%20of%20virtual%20processors.
+https://superuser.com/questions/1510172/hyper-v-vs-virtual-machine-platform-vs-windows-hypervisor-platform-settings-in-p
+https://docs.microsoft.com/en-us/virtualization/api/hypervisor-platform/hypervisor-platform
+https://docs.microsoft.com/en-us/windows/wsl/about
