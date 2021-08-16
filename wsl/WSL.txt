@@ -1,0 +1,10 @@
+### Open VS Code from within WSL distro
+
+(with VS Code "Remote - WSL" installed on Windows host OS)
+wsl
+>> code .
+
+
+https://docs.microsoft.com/en-us/windows/wsl/wsl-config
+https://docs.microsoft.com/en-us/windows/wsl/about
+https://docs.microsoft.com/en-us/windows/wsl/about
