@@ -4,6 +4,10 @@
 wsl
 >> code .
 
+## Open WLS Distro folder structure in File Explorer
+
+(from a WSL terminal)
+explorer.exe .
 
 https://docs.microsoft.com/en-us/windows/wsl/wsl-config
 https://docs.microsoft.com/en-us/windows/wsl/about
